@@ -1,0 +1,14 @@
+C:\Users\HOANG LINH\Desktop\DHLLesson1\bin\Debug\net9.0\DHLLesson1.exe
+C:\Users\HOANG LINH\Desktop\DHLLesson1\bin\Debug\net9.0\DHLLesson1.deps.json
+C:\Users\HOANG LINH\Desktop\DHLLesson1\bin\Debug\net9.0\DHLLesson1.runtimeconfig.json
+C:\Users\HOANG LINH\Desktop\DHLLesson1\bin\Debug\net9.0\DHLLesson1.dll
+C:\Users\HOANG LINH\Desktop\DHLLesson1\bin\Debug\net9.0\DHLLesson1.pdb
+C:\Users\HOANG LINH\Desktop\DHLLesson1\obj\Debug\net9.0\DHLLesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOANG LINH\Desktop\DHLLesson1\obj\Debug\net9.0\DHLLesson1.AssemblyInfoInputs.cache
+C:\Users\HOANG LINH\Desktop\DHLLesson1\obj\Debug\net9.0\DHLLesson1.AssemblyInfo.cs
+C:\Users\HOANG LINH\Desktop\DHLLesson1\obj\Debug\net9.0\DHLLesson1.csproj.CoreCompileInputs.cache
+C:\Users\HOANG LINH\Desktop\DHLLesson1\obj\Debug\net9.0\DHLLesson1.dll
+C:\Users\HOANG LINH\Desktop\DHLLesson1\obj\Debug\net9.0\refint\DHLLesson1.dll
+C:\Users\HOANG LINH\Desktop\DHLLesson1\obj\Debug\net9.0\DHLLesson1.pdb
+C:\Users\HOANG LINH\Desktop\DHLLesson1\obj\Debug\net9.0\DHLLesson1.genruntimeconfig.cache
+C:\Users\HOANG LINH\Desktop\DHLLesson1\obj\Debug\net9.0\ref\DHLLesson1.dll
